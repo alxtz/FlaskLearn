@@ -7,3 +7,5 @@ like int, autoincrement, or query correctly
 # HTTP methods
 
 # Flask expects a response for every request
+
+# anything for a template to be unique should be inside a block tag
